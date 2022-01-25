@@ -1,3 +1,3 @@
-# visor_lenguaje
+# practica_pseudo
 
-Esta será una práctica para ver si se puede crear un ejecutor de código simple.
+Esta será una práctica de peudocódigo.
