@@ -1,3 +1,3 @@
-# practica_pseudo
+# practica_pseint
 
 Esta será una práctica de peudocódigo.
