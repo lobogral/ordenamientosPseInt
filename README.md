@@ -1,8 +1,8 @@
-# practica_pseint
+# ordenamientosPseInt
 
-Muestra de algunas prácticas con PseInt.
+Muestra de algunas algoritmos de ordenamiento con PseInt.
 
-PseInt es un software diseñado para crear pseudocódigo, esto muy bueno para los que desean aprender a programar, además, el software está en español. 
+Muchos de los algoritmos de ordenamiento están expresados en pseudocódigo, por lo cual PseInt es un software indicado para ello, además el software está en español.
 
 ## Nota:
 Como PseInt no está dentro de los lenguajes de github, se muestra a Papyrus como el lenguaje del repositorio, se aclara que el repositorio no tiene nada que ver con Papyrus.
